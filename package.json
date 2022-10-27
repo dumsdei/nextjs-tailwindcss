@@ -9,18 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@headlessui/react": "^1.6.6",
-    "next": "12.2.4",
+    "@headlessui/react": "^1.7.3",
+    "next": "13.0.0",
     "react": "18.2.0",
-    "react-bootstrap-icons": "^1.8.4",
+    "react-bootstrap-icons": "^1.9.1",
     "react-dom": "18.2.0",
-    "tailwindcss": "^3.1.7"
+    "tailwindcss": "^3.2.1"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.8",
-    "eslint": "8.21.0",
-    "eslint-config-next": "12.2.4",
-    "postcss": "^8.4.14",
+    "autoprefixer": "^10.4.12",
+    "eslint": "8.26.0",
+    "eslint-config-next": "13.0.0",
+    "postcss": "^8.4.18",
     "react-with-class": "^1.1.3"
   }
 }
